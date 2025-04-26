@@ -1,0 +1,45 @@
+body {
+  background: rgb(211,211,211);
+  padding: 25px;
+  font-family: sans-serif;
+  text-align: center;
+ 
+}
+
+.huayra{
+  margin: auto;
+  width: 30em;
+
+}
+
+.intro{
+  margin: 6em;
+}
+
+p{
+  font-size: 1.3em;
+}
+
+.description{
+  text-align: center;
+}
+
+.horacio{
+  width: 35em;
+  margin: auto;
+}
+
+.countach{
+  width: 35em;
+  margin:auto;
+}
+
+.zonda{
+  width: 35em;
+  margin: auto;
+}
+
+.utopia{
+  width: 35em;
+  margin: auto;
+}
